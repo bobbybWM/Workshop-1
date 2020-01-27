@@ -1,0 +1,11 @@
+# Response to Blumenstock
+Bobby Brooks
+
+January 27
+
+[Blumenstock Response](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf) (Jan. 27)
+
+**Question:** Joshua Blumenstock states that a humbler data science could transform international development while also limiting the number of alleged silver bullets that have missed their mark in recent years. Describe the promise, pitfalls and ways forward Blumenstock uses as the foundation for his thesis.
+
+**Response:**  When Blumenstock refers to a humbler data science, he means that it should not be assumed that data can be the only solution to a problem. One example Blumenstock used was that direct aid from GiveDirectly was initially distributed to African households, which satelitte imagery had shown as having thatched roofs. People soon caught on to the aid allocation mechanism, and began to build thatched roof structures next to their actual homes in order to receive aid that was not mmeant for them. In this instance, people adapted quicker than data did. A humbler data science approach would not blindly assume that the data was correct like GiveDirectly initially did. Blumenstock posits that one way to make data science humbler, and therefore more effective, is to partner data with the human intuition gleaned from surveys. This method allows for data to adapt nearly, if not as quickly as humans are able to because it is powered by humans. This follows a similar logic to Anna Raymond's point that good intent is not enough for data to solve development problems. Data can be manipulated by any of its users, and there is a basic human urge to think of one's self. This concept was evident with the Give Directly example as those without thatched roofs manipulated data for their own benefit.
+Transparency is necessary for data science to be an effective silver bullet for deveelopment because
