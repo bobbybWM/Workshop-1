@@ -13,3 +13,7 @@ Bobby Brooks
 
 ## Response 1
 [Blumenstock Response](https://github.com/bobbybWM/Workshop-1/blob/master/blumenstock.md)
+
+
+## Response 2
+[LLoyd et al. Response](https://github.com/bobbybWM/Workshop-1/commit/624bf88fc128e16b51ba12d876b9d9c44af16051?diff=split)
