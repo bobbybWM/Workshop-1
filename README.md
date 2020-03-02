@@ -24,3 +24,6 @@ Bobby Brooks
 
 ## Response 3
 [Wardrop Response](https://github.com/bobbybWM/Workshop-1/blob/master/Wardrop%20Response.md)
+
+## Response 4
+[Stevens Response](https://github.com/bobbybWM/Workshop-1/blob/master/Stevens%20Response.md)
