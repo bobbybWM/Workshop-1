@@ -27,3 +27,6 @@ Bobby Brooks
 
 ## Response 4
 [Stevens Response](https://github.com/bobbybWM/Workshop-1/blob/master/Stevens%20Response.md)
+
+## Response 5
+[NIeves et al. Response](https://github.com/bobbybWM/Workshop-1/blob/master/Nieves%20Response.md)
