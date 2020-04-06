@@ -4,7 +4,7 @@
 
 The image below is a histogram showing population totals within the 2nd administrative level for the Lima region.
 
-![alt text](https://github.com/bobbybWM/Workshop-1/blob/master/per_adm2_histogram.png)
+![alt text](per_adm2_histogram.png)
 
 # Population Density Graph
 
