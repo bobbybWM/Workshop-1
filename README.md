@@ -17,7 +17,6 @@ Bobby Brooks
 
 ## Project 2
 [Project 2](https://github.com/bobbybWM/Workshop-1/blob/master/Project2.md)
-
 ## Response 1
 [Blumenstock Response](https://github.com/bobbybWM/Workshop-1/blob/master/blumenstock.md)
 
