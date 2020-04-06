@@ -16,7 +16,7 @@ Bobby Brooks
 [Project 1 Deliverable](https://github.com/bobbybWM/Workshop-1/blob/master/Project%201%20Deliverable.md)
 
 ## Project 2
-[Project 2](https://github.com/bobbybWM/Workshop-1/blob/master/Project2.md)
+![alt text](https://github.com/bobbybWM/Workshop-1/blob/master/Project2.md)
 ## Response 1
 [Blumenstock Response](https://github.com/bobbybWM/Workshop-1/blob/master/blumenstock.md)
 
