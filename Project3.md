@@ -2,7 +2,7 @@
 
 ## Access to Healthcare Facilities in Huancabamba, Peru.
 
-![alt text](https://github.com/bobbybWM/Workshop-1/blob/master/healthcare_access_huancabamba.png)
+![alt text](healthcare_access_huancabamba.png)
 
 ### Question 1
 Huancabamba has a total population of 128,742 with 27 distinct urban areas.
