@@ -1,5 +1,18 @@
 # Project 3
 
+
+## Map of Urban Areas throughout Huancabamba, Peru
+
+![alt text](adm2_urban_areas.png)
+
+## Urban Areas Center Point Population Density Map
+
+![alt text](center_points_density_pop.png)
+
+## Driveable Roads throughout Huancabamba, Peru
+
+![alt text](Driveable_Roadways_Huancabamba.png)
+
 ## Access to Healthcare Facilities in Huancabamba, Peru.
 
 ![alt text](healthcare_access_huancabamba.png)
