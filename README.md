@@ -25,7 +25,7 @@ Bobby Brooks
 [Project 4](https://github.com/bobbybWM/Workshop-1/blob/master/Project4.md)
 
 ## Final Project
-[Final Project]
+[Final Project](https://github.com/bobbybWM/Workshop-1/blob/master/FinalProject.md)
 
 ## Response 1
 [Blumenstock Response](https://github.com/bobbybWM/Workshop-1/blob/master/blumenstock.md)
