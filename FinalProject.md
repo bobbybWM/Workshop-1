@@ -30,4 +30,4 @@ The blue lines represent driveable roadways throughout Huancabamba. The red dots
 
 ![alt text](2994.png)
 
-Shown above is a 3D rendering of Huancabamba, Peru. Some notable takeaways are that the region is very mountainous, urban centers, aer largely contained to the valleys, and roadways do not offer a large degree of interconnectivity throughout the region, as they are largely limited to the central part of the region. This helps explain the findings provided by the 2D plot that topography has limited the placement of healthcare facilities near driveable roadways and population centers.
+Shown above is a 3D rendering of Huancabamba, Peru. Some notable takeaways are that the region is very mountainous, urban centers, are largely contained to the valleys, and roadways do not offer a large degree of interconnectivity throughout the region, as they are largely limited to the central part of the region. This helps explain the findings provided by the 2D plot that topography has limited the placement of healthcare facilities near driveable roadways and population centers.
