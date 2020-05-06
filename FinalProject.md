@@ -22,4 +22,12 @@ Pictured below is a four variable regression showing the Lima region's populatio
 
 ## Access to Healthcare and Roadways in Huancabamba, Peru
 
-Huancabamba, Peru is located in the Northeast corner of the country, near the Ecuadorean border. Huancabamba was chosen for its population count (about 124,800), making the computations manageable in terms of grid cells.
+Huancabamba, Peru is located in the Northeast corner of the country, near the Ecuadorean border. Huancabamba was chosen for its population count (about 124,800), making the computations manageable in terms of grid cells.  
+
+![alt text](healthcare_access_huancabamba.png)
+
+The blue lines represent driveable roadways throughout Huancabamba. The red dots are doctors offices and the black dots are clinics. There was no distinction between the capabilities of the clinics and offices in the HDX data, and the only thing I could determine through further reasearch was that the healthcare facilities are all state run. Interestingly, Peru does have a National Bureau of Statistics, but it seems to focuse more on economic statistics than anything else, so a lack of data at the country level could be to blame for this. As you can see many healthcare facilities are not situated near the roadways or population centers. A possible explanation for this is that the mountainous topography prevented development in several areas, as well as necessitated the need for doctors in small, mountainous villages.
+
+![alt text](2994.png)
+
+Shown above is a 3D rendering of Huancabamba, Peru. Some notable takeaways are that the region is very mountainous, urban centers, aer largely contained to the valleys, and roadways do not offer a large degree of interconnectivity throughout the region, as they are largely limited to the central part of the region. This helps explain the findings provided by the 2D plot that topography has limited the placement of healthcare facilities near driveable roadways and population centers.
