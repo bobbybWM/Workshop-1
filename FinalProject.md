@@ -4,7 +4,7 @@
 
 Peru has 3 administrative divisions. Because of the large size of Peru, my analysis was limited largely to the 2nd and 3rd administrative divisions, as my computer could not process the roughly 330 million gridcells required to look at Peru as a whole. Because of this my analysis mostly centered around the Lima region of Peru, while later zooming in on Huancabamba, Peru. Pictured below is a map showing Peru's 1st and 2nd administrative divisions.
 
-![alt text](my_LMIC%20(1).png)
+![alt text](my_LMIC20(1).png)
 
 ## Lima Region Population
 
